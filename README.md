@@ -1,6 +1,3 @@
-![](https://streak-stats.demolab.com/?user=marcelloerick&theme=maroongold&hide_border=false)<br/> 
+![](https://streak-stats.demolab.com/?user=marcelloerick&theme=merko&hide_border=false)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcelloerick&color=green) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@marcjrk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcellojanerick@gmail.com) 
-
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
